@@ -1,4 +1,4 @@
-#Black V Syntax theme
+#Black-V Syntax theme
 
 A dark syntax theme with black background color for Atom.
 
