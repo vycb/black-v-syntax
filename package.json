@@ -1,0 +1,11 @@
+{
+  "name": "atom-black-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A black theme for syntax",
+  "repository": "https://github.com/vycb/atom-black-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
