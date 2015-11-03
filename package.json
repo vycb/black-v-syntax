@@ -1,7 +1,7 @@
 {
   "name": "black-v-syntax",
   "theme": "syntax",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "A dark syntax theme with black background color for Atom",
   "repository": "https://github.com/vycb/black-v-syntax",
   "license": "MIT",
